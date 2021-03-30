@@ -1,4 +1,4 @@
-# Freshdesk Service Provider for Laravel 5
+# Freshdesk Service Provider for Laravel 8
 
 [![Build Status](https://travis-ci.org/mpclarkson/freshdesk-laravel.svg?branch=master)](https://travis-ci.org/mpclarkson/freshdesk-laravel)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/mpclarkson/freshdesk-laravel/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/mpclarkson/freshdesk-laravel/?branch=master)
@@ -12,12 +12,12 @@ This is a service provider for interacting with the Freshdesk API v2 via the
 
 To add this bundle to your app, use [Composer](https://getcomposer.org).
 
-Add `mpclarkson/freshdesk-laravel` to your **composer.json** file:
+Add `arnovbr/freshdesk-laravel` to your **composer.json** file:
 
 ```json
 {
     "require": {
-        "mpclarkson/freshdesk-laravel": "dev-master"
+        "arnovbr/freshdesk-laravel": "dev-master"
     }
 }
 ```
